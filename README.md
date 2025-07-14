@@ -10,7 +10,7 @@
 ### 🛠️ Tech Stack & Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,python,php,linux,git,github,docker,figma,vercel,vite,angular,redux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,python,php,linux,git,github,docker,vercel,vite,angular,redux,go,tensorflow" />
 </p>
 
 > 🧠 Also experienced with: TensorFlow, PyTorch, Flask, React Native, Rust
